@@ -14,7 +14,7 @@ Without using Moving Average: Probability of each frame is predicted by model an
 
 
 
-Results Without Using Moving Average:
+Results Without Using Moving Average (window_size = 1):
 
 
 https://user-images.githubusercontent.com/92297330/185452807-0c136469-3814-4dee-842d-46035f2e83d9.mp4
@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/92297330/185452807-0c136469-3814-4dee-
 
 
 
-Results Using Moving Average:
+Results Using Moving Average (window_size = 25):
 
 
 https://user-images.githubusercontent.com/92297330/185452791-9f788927-6813-4a64-addf-70d150f36e4d.mp4
