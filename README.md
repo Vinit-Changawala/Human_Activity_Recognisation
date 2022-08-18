@@ -11,11 +11,19 @@ Without using Moving Average: Probability of each frame is predicted by model an
 
 
 
+
+
+
 Results Without Using Moving Average:
 
 
+https://user-images.githubusercontent.com/92297330/185452807-0c136469-3814-4dee-842d-46035f2e83d9.mp4
 
-https://user-images.githubusercontent.com/92297330/185450111-4fd333ac-4344-46a3-9278-f00ecdc11083.mp4
+
+
+
+
+
 
 
 
@@ -25,6 +33,9 @@ https://user-images.githubusercontent.com/92297330/185450111-4fd333ac-4344-46a3-
 Results Using Moving Average:
 
 
+https://user-images.githubusercontent.com/92297330/185452791-9f788927-6813-4a64-addf-70d150f36e4d.mp4
 
-https://user-images.githubusercontent.com/92297330/185450271-2fe19342-5ed2-4c3f-982a-c4f585fbd3a1.mp4
+
+
+
 
